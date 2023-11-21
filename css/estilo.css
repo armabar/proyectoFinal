@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 800px;
+    height: 200px;
+}
+
+.cerveza {
+    width: 800px;
+    height: 500px;
+}
+
+.merch {
+    width: 800px;
+    height: 500px;
+}
+
+li {
+    display: inline;
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    color:brown;
+    width: 100px;
+}
+
+h2 {
+    color: brown
+}
+
+body {
+    background-color: rgb(148, 142, 142)
+}
+
+form {
+    background-color: beige;
+    width: 500px;
+    height: 350px;
+}
+
+.form {
+    color: darkblue;
+    font-size: 40px;
+}
+
+label {
+    font-size: 25px;
+}
+
+p {
+    color: black;
+}
+
+.contenedor {
+    background-color: bisque;
+    border-top: 3px dotted white;
+    border-bottom: 3px dotted white;
+    border-right: 3px solid grey;
+    border-left: dotted grey;
+    border-radius: 8px;
+    margin: 20px 30px 40px 50px;
+    padding: 30px;
+}
+
+.contenedor p {
+    color: violet
+}
+
